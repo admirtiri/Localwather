@@ -1,0 +1,19 @@
+@font-face {
+  font-family: Slim;
+  src: url("../fonts/Slimjoe.otf"); }
+
+
+.content {
+  margin-left: 40%;
+  margin-top: 10%;
+  color: white;;
+}
+
+ #weather{
+   font-family: Slim;
+ }
+
+body{
+  background-size: cover;
+  background-image: url("https://asset.lasvegassun.com/media/assets/images/wallpaper/general_wallpaper/0105_sun_wallpaper3_1440x900.jpg");
+}
